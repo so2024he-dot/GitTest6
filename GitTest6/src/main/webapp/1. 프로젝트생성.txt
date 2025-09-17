@@ -3,5 +3,6 @@
 - 파일 생성
 -git add
 -git commit
- git remote(원격 저장소 연결)
+-git remote(원격 저장소 연결)
+-원격저장소 연결은 한 번 만 설정
 -git push (원격저장소로 보내기)
